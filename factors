@@ -1,14 +1,5 @@
-4
-12
-34
-128
-1024
-4958
-1718944270642558716715
-9
-99
-999
-9999
-9797973
-49
-239809320265259
+#!/usr/bin/python3
+from factors_functions import *
+if __name__ == '__main__':
+
+    print(unix_time(print_factors))
